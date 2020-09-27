@@ -1,9 +1,5 @@
 # Filters for obs-shaderfilter plugin
-My Custom shader filters for the obs-shaderfilter plugin.
-
-## Introduction
-
-Shader files to use on [OBS Studio](http://obsproject.com/) with the [obs-shaderfilter](https://github.com/Oncorporation/obs-shaderfilter/) plugin.
+My Custom shader filters to use on [OBS Studio](http://obsproject.com/) with the [obs-shaderfilter](https://github.com/Oncorporation/obs-shaderfilter/) plugin.
 
 ## Installation
 
