@@ -12,3 +12,23 @@ Download the .shader files from this repository and use them as the text file fo
 * **16-bit:** Pixelates the image, posterize colors and add scanlines. All optional, so you can use any combination of the effects.
 * **Outlines:** Creates outlines around areas of high contrast. Useful for cartoon effects.
 * **Smart blur:** Blurs the image only where there are subtle changes in color. Can be used to remove noise or to remove skin details.
+ 
+### Sample images
+
+* Original image, without filters
+ ![original image][original]
+* 16-bit
+ ![16-bit example][16-bit]
+* Outlines
+ ![Outlines example][outlines]
+* Smart blur
+ ![Smart blur example][smart-blur]
+* Smart blur, outlines and 16-bit, in that order.
+ ![combined sample][16-bit-combined]
+
+
+[original]: https://github.com/RVillani/obs-shaderfilter-villani/blob/master/example%20original.jpg?raw=true
+[16-bit]: https://github.com/RVillani/obs-shaderfilter-villani/blob/master/example%20pixelate.jpg?raw=true
+[outlines]: https://github.com/RVillani/obs-shaderfilter-villani/blob/master/example%20outlines.jpg?raw=true
+[smart-blur]: https://github.com/RVillani/obs-shaderfilter-villani/blob/master/example%20smart-blur.jpg?raw=true
+[16-bit-combined]: https://github.com/RVillani/obs-shaderfilter-villani/blob/master/example%2016-bit%20outlines%20smart-blur.jpg?raw=true
